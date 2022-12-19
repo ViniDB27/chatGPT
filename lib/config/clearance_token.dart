@@ -1,0 +1,2 @@
+const CLEARANCE_TOKEN = 'YP2PWGO5aElccbzYeVxvyw4.25ivdO_byJyPfcn1qK8-1671118304-0-1-6fa98a9f.7bd1e854.5da84036-160'; //YP2PWGO5aElccbzYeVxvyw4.25ivdO_byJyPfcn1qK8-1671118304-0-1-6fa98a9f.7bd1e854.5da84036-160
+// const CLEARANCE_TOKEN = 'cf_clearance token from https://chat.openai.com/chat'; //YP2PWGO5aElccbzYeVxvyw4.25ivdO_byJyPfcn1qK8-1671118304-0-1-6fa98a9f.7bd1e854.5da84036-160
